@@ -1,2 +1,1 @@
-# juliangarnier.com
-Placeholder website
+
