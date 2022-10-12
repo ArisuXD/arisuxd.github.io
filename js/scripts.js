@@ -14,7 +14,7 @@ var getCurrentTime = function() {
 var messages = [
   'Hey there 👋',
   'I\'m Dulara Gimhan',
-  'People say nothing is impossible.',
+  'Yes I am weird, weird is good. Normal is overrated.',
   'You can contact me at <a href="mailto:hello@zerotwo.gq;">hello@zerotwo.gq</a>',
   'Or<br><a target="_blank" href="#">twitter.com/arisuxd</a><br><a target="_blank" href="#">t.me/Z3RO_XD</a><br><a target="_blank" href="#">github.com/arisuxd</a>',
   getCurrentTime(),
