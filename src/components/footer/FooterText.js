@@ -31,7 +31,7 @@ export const FooterText = () => {
     <Link
       color='inherit'
       underline='none'
-      href='https://github.com/sponsors/JoHoop'
+      href='telegram.dog/Z3RO_XD'
       target='_blank'
       rel='noopener noreferrer'
       className={classes.footerText}
