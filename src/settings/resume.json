@@ -1,16 +1,16 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "name": "CupCake",
+        "label": "just a random guy on the internet",
+        "email": "hello@zerotwo.gq",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
         "x_title": "Hey, I'm",
-        "job": "CS student",
+        "job": "just a random guy on the internet",
         "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "summary": "Yes I am weird, weird is good. Normal is overrated.",
+        "keywords": "dulara,gimhan,personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://zeritwo.gq",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
@@ -27,32 +27,32 @@
                 "x_icon": "fab fa-google"
             },
             {
-                "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
-                "x_icon": "fab fa-linkedin-in"
+                "network": "Instagram",
+                "username": "heffelyy",
+                "url": "https://www.instagram.com/heffelyy/",
+                "x_icon": "fab fa-instagram"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "arisuxd",
+                "url": "https://github.com/arisuxd",
                 "x_icon": "fab fa-github"
             },
             {
-                "network": "GitLab",
-                "username": "johoop",
-                "url": "https://gitlab.com/JoHoop",
-                "x_icon": "fab fa-gitlab"
+                "network": "Spotify",
+                "username": "jillyamartino",
+                "url": "https://open.spotify.com/user/jillyamartino",
+                "x_icon": "fab fa-spotify"
             },
             {
                 "network": "Telegram",
-                "username": "jolienhoop",
-                "url": "https://t.me/jolienhoop",
+                "username": "Z3RO_XD",
+                "url": "https://t.me/Z3RO_XD",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "Jo#4467",
+                "username": "clays_s#7975",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
